@@ -32,6 +32,3 @@ Il représente une excellente mise en pratique des concepts d'interface utilisat
 
 Comme l'application utilise `tkinter` qui est inclus par défaut avec Python, vous n'avez besoin d'installer aucune bibliothèque externe.
 
-1. **Cloner le dépôt :**
-   ```bash
-   git clone [https://github.com/TrongNGUYEN1312/To-do-list-.git](https://github.com/TrongNGUYEN1312/To-do-list-.git)
