@@ -15,12 +15,12 @@ Il représente une excellente mise en pratique des concepts d'interface utilisat
 
 ##  Fonctionnalités
 
-* ** Ajouter une tâche :** Saisissez une tâche et ajoutez-la à la liste (bouton ou touche `Entrée`).
-* ** Supprimer une tâche :** Suppression sécurisée avec une boîte de dialogue de confirmation (bouton ou touche `Suppr`).
-* ** Suivi de l'état :** Marquez vos tâches comme "Terminées" ou remettez-les "En cours" (Reprendre).
-* ** Gestion des priorités :** Mettez en avant les tâches urgentes (couleur rouge et astérisque) ou remettez-les en statut normal.
-* ** Annulation (Undo) :** Vous avez fait une erreur ? Annulez votre dernière action grâce à l'historique intégré (bouton ou raccourci `Ctrl+Z`).
-* ** Sauvegarde automatique :** Les tâches sont enregistrées dans un fichier `Liste_Tache.txt` à chaque modification.
+* **Ajouter une tâche :** Saisissez une tâche et ajoutez-la à la liste (bouton ou touche `Entrée`).
+* **Supprimer une tâche :** Suppression sécurisée avec une boîte de dialogue de confirmation (bouton ou touche `Suppr`).
+* **Suivi de l'état :** Marquez vos tâches comme "Terminées" ou remettez-les "En cours" (Reprendre).
+* **Gestion des priorités :** Mettez en avant les tâches urgentes (couleur rouge et astérisque) ou remettez-les en statut normal.
+* **Annulation (Undo) :** Vous avez fait une erreur ? Annulez votre dernière action grâce à l'historique intégré (bouton ou raccourci `Ctrl+Z`).
+* **Sauvegarde automatique :** Les tâches sont enregistrées dans un fichier `Liste_Tache.txt` à chaque modification.
 
 ##  Technologies utilisées
 
